@@ -1,0 +1,99 @@
+D:\dotnet\DemoProject\bin\Debug\net8.0\appsettings.Development.json
+D:\dotnet\DemoProject\bin\Debug\net8.0\appsettings.json
+D:\dotnet\DemoProject\bin\Debug\net8.0\DemoProject.exe
+D:\dotnet\DemoProject\bin\Debug\net8.0\DemoProject.deps.json
+D:\dotnet\DemoProject\bin\Debug\net8.0\DemoProject.runtimeconfig.json
+D:\dotnet\DemoProject\bin\Debug\net8.0\DemoProject.dll
+D:\dotnet\DemoProject\bin\Debug\net8.0\DemoProject.pdb
+D:\dotnet\DemoProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\dotnet\DemoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\dotnet\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotnet\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotnet\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.csproj.AssemblyReference.cache
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfoInputs.cache
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfo.cs
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CoreCompileInputs.cache
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets.build.json
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets.development.json
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.DemoProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoProject.props
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoProject.props
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoProject.props
+D:\dotnet\DemoProject\obj\Debug\net8.0\staticwebassets.pack.json
+D:\dotnet\DemoProject\obj\Debug\net8.0\scopedcss\bundle\DemoProject.styles.css
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CopyComplete
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.dll
+D:\dotnet\DemoProject\obj\Debug\net8.0\refint\DemoProject.dll
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.pdb
+D:\dotnet\DemoProject\obj\Debug\net8.0\DemoProject.genruntimeconfig.cache
+D:\dotnet\DemoProject\obj\Debug\net8.0\ref\DemoProject.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\appsettings.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\DemoProject.exe
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\DemoProject.deps.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\DemoProject.runtimeconfig.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\DemoProject.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\DemoProject.pdb
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.csproj.AssemblyReference.cache
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfoInputs.cache
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfo.cs
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.DemoProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoProject.props
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoProject.props
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoProject.props
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\scopedcss\bundle\DemoProject.styles.css
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CopyComplete
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\refint\DemoProject.dll
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.pdb
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\DemoProject.genruntimeconfig.cache
+C:\Users\hasit\OneDrive\Desktop\New folder\DemoProject\obj\Debug\net8.0\ref\DemoProject.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\DemoProject.exe
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\DemoProject.deps.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\DemoProject.runtimeconfig.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\DemoProject.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\DemoProject.pdb
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.AssemblyInfo.cs
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.DemoProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoProject.props
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoProject.props
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoProject.props
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\scopedcss\bundle\DemoProject.styles.css
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.csproj.CopyComplete
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\refint\DemoProject.dll
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.pdb
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\DemoProject.genruntimeconfig.cache
+C:\Users\DELL\Desktop\finalTest\finalTest\DemoProject\obj\Debug\net8.0\ref\DemoProject.dll
