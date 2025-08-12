@@ -13,8 +13,11 @@ Clean Client-Server Architecture: A clear separation of concerns with a .NET Web
 
     🛠️ Technology Stack
 Backend	- C#, .NET 8, ASP.NET Core Web API
+
 Frontend - Angular, TypeScript, HTML5, CSS3
+
 Tools & Environment - Visual Studio, VS Code, GitHub
+
 	
 
 ![mp](https://github.com/user-attachments/assets/e04aec25-0854-42a5-8407-12db15bf3709)
