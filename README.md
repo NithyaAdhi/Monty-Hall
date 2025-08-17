@@ -2,7 +2,7 @@
                                       Monty Hall Problem Simulation
 A full-stack web application built with .NET and Angular to demonstrate and explore the famous Monty Hall probability problem. This project provides both a hands-on, playable game and a high-speed simulation engine to statistically prove the counter-intuitive results of the paradox.
 
-**Live Demo:** [https://memory-card-game](https://memory-card-game-eight-ashy.vercel.app/)
+
 
     ✨ Key Features
 Interactive Game Mode: Play the game yourself! Pick a door, have the host reveal a goat, and decide whether to switch or stay.
